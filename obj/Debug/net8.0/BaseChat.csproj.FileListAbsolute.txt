@@ -1,0 +1,15 @@
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\bin\Debug\net8.0\BaseChat.deps.json
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\bin\Debug\net8.0\BaseChat.dll
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\bin\Debug\net8.0\BaseChat.pdb
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\bin\Debug\net8.0\IksAdminApi.dll
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\bin\Debug\net8.0\IksAdminApi.pdb
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.csproj.AssemblyReference.cache
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.AssemblyInfoInputs.cache
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.AssemblyInfo.cs
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.csproj.CoreCompileInputs.cache
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.csproj.Up2Date
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.dll
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\refint\BaseChat.dll
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\BaseChat.pdb
+E:\__iksAdmin\IksAdmin_Modules\BaseChat\obj\Debug\net8.0\ref\BaseChat.dll

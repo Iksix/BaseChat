@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseChat", "BaseChat.csproj", "{7529982E-446C-20E3-9EBF-4705E98ECDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7529982E-446C-20E3-9EBF-4705E98ECDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7529982E-446C-20E3-9EBF-4705E98ECDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7529982E-446C-20E3-9EBF-4705E98ECDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7529982E-446C-20E3-9EBF-4705E98ECDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519AEB8B-41AB-4175-A1C7-0E1604B69F70}
+	EndGlobalSection
+EndGlobal
